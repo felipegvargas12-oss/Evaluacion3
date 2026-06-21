@@ -15,6 +15,6 @@ export const MASCOTA_MOCK = [
     edad: "adulto",
     tamano: "pequeño",
     descripcion: "Tranquilo, le encanta dormir al sol y es muy independiente.",
-    imagen: "https://placekitten.com/500/300" 
+    imagen: "https://unamglobal.unam.mx/wp-content/uploads/2025/08/GATO_UNAM-1024x768.jpg" 
   }
 ];
